@@ -45,7 +45,7 @@ Read the course materials. Ask questions if any topics are unclear. Be respectfu
 
 ### Syllabus and Text
 
-This page serves as the syllabus for this course. This syllabus is subject to change; students who miss class are responsible for learning about any changes to the syllabus. Course readings will be made available for download from the course GitHub repository (https://github.com/alexhuth/cortex-fa2020).
+This page serves as the syllabus for this course. This syllabus is subject to change; students who miss class are responsible for learning about any changes to the syllabus. Course readings will be made available for download from the course GitHub repository (https://github.com/alexhuth/cortex-sp2021).
 
 ### Exams and Assignments
 

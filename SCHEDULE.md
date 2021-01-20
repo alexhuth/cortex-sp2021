@@ -1,14 +1,16 @@
-* thu 8/27  - intro & syllabus
-* thu 9/3   - gross neuroanatomy
-* thu 9/10  - gross neuroanatomy - HOMEWORK 1 ASSIGNED
-* thu 9/17  - visual system
-* thu 9/24  - occipital visual system organization - HOMEWORK 1 DUE
-* thu 10/1  - temporal & parietal visual system organization - HOMEWORK 2 ASSIGNED
-* thu 10/8  - parietal cortex
-* thu 10/15 - somatosensory system - HOMEWORK 2 DUE - HOMEWORK 3 ASSIGNED
-* thu 10/22 - motor system
-* thu 10/29 - auditory system - HOMEWORK 3 DUE
-* thu 11/5  - prefrontal cortex
-* thu 11/12 - association cortex - HOMEWORK 4 ASSIGNED
-* thu 11/19 - default mode network
-* thu 12/3  - last day of class - overview - HOMEWORK 4 DUE
+* wed 1/20  - intro & syllabus
+* wed 1/27   - gross neuroanatomy
+* wed 2/3   - gross neuroanatomy - HOMEWORK 1 ASSIGNED
+* wed 2/10  - visual system
+* wed 2/17  - occipital visual system organization - HOMEWORK 1 DUE
+* wed 2/24  - temporal & parietal visual system organization - HOMEWORK 2 ASSIGNED
+* wed 3/3   - parietal cortex
+* wed 3/10  - somatosensory system - HOMEWORK 2 DUE - HOMEWORK 3 ASSIGNED
+* wed 3/17  - motor system
+* wed 3/24  - auditory system - HOMEWORK 3 DUE
+* wed 3/31  - prefrontal cortex
+* wed 4/7   - association cortex - HOMEWORK 4 ASSIGNED
+* wed 4/14  - default mode network
+* wed 4/21  - tbd - HOMEWORK 4 DUE
+* wed 4/28  - tbd
+* wed 5/5   - last day of class - overview
