@@ -79,3 +79,43 @@ Your third and final task is to annotate the cortical poles (6 points each = 18 
 * the occipital pole
 
 You can decide how best to annotate each pole.
+
+## Homework 2: Visual Cortex
+For the second homework, you will need to annotate several features of visual cortex. You need to annotate every feature in **both the left and the right hemispheres**.
+
+The total possible score on this assignment is **75 points**.
+
+**IMPORTANT:** You should add these new annotations _on top of your infographic from Homework 1_. Try to make it so that both old and new annotations are legible/visible, but the most important thing here is the new visual cortex annotations.
+
+When you're done with your updated infographic, please upload your image (after testing it on the 3D viewer) to Canvas.
+
+#### Retinotopic visual cortex
+Your first task is to annotate the major retinotopic visual areas (10 points each = 30 points):
+
+* Primary visual cortex (V1)
+* V2
+* V3
+
+For each area, you should draw an outline (this does not need to be perfectly accurate, you are guessing here, after all!), and use coloring, shading, or labels to indicate which parts of each area are selective for:
+
+* Foveal vs. peripheral visual field (i.e. eccentricity)
+* Dorsal vs. ventral visual field
+* Left vs. right visual field
+
+#### Category-selective visual cortex
+Your second task is to annotate the major category-selective visual areas (5 points each = 45 points), including:
+
+* Face-selective areas
+  * Fusiform face area (FFA)
+  * Occipital face area (OFA)
+  * Superior temporal sulcus face area (STS-FA)
+* Place-selective areas
+  * Parahippocampal place area (PPA)
+  * Occipital place area (OPA)
+  * Retrosplenial complex (RSC)
+* Body-selective areas
+  * Extrastriate body area (EBA)
+  * Fusiform body area (FBA)
+* Pokemon-selective areas
+
+For each area, you should draw or shade the area itself, include a label with the area name, and use some method (legend, inset cartoon, etc.) to indicate the selectivity of each area.
