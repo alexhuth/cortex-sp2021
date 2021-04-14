@@ -119,3 +119,35 @@ Your second task is to annotate the major category-selective visual areas (5 poi
 * Pokemon-selective areas
 
 For each area, you should draw or shade the area itself, include a label with the area name, and use some method (legend, inset cartoon, etc.) to indicate the selectivity of each area.
+
+
+## Homework 3: Somatosensory + Motor Cortex
+For the third homework, you will need to annotate several features of somato-motor cortex. You need to annotate every feature in **both the left and the right hemispheres**.
+
+The total possible score on this assignment is **65 points**.
+
+**IMPORTANT:** You should add these new annotations _on top of your infographic from Homework 2_. Try to make it so that both old and new annotations are legible/visible, but the most important thing here is the new annotations.
+
+When you're done with your updated infographic, please upload your image (after testing it on the 3D viewer) to Canvas.
+
+#### Somatosensory cortex
+Your first task is to annotate the following somatotopic areas in primary somatosensory cortex (5 points each = 25 points). The relative sizes and locations of each area should be correct. Please label or graphically annotate each area so its function is clear.
+
+* Mouth area
+* Hand area
+* Trunk area (chest/stomach)
+* Leg area
+* Foot area
+
+#### Primary motor cortex
+Your second task is to annotate the following motor areas in **primary** motor cortex (5 points each = 30 points). The sizes and locations of each area (relative to each other and to the somatosensory areas) should be approximately correct.
+
+* Mouth area
+* Hand area
+* Eye movement area (FEF)
+* Trunk area (chest/stomach)
+* Leg area
+* Foot area
+
+#### Non-primary motor areas
+Your final task is to annotate the **premotor** and **supplementary motor** regions (5 points each = 10 points). You do not need to annotate sub-regions specific to body parts or effectors, just the broad location of premotor cortex and supplementary motor cortex.
